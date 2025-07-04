@@ -1,8 +1,12 @@
 # DrawDash v1.0 - Modern Progressive Web Drawing Game
 
-A cutting-edge, modern web-based drawing game built with the latest web technologies. Perfect for publishing on **Itch.io**, and **app stores** as a Progressive Web App (PWA). Features advanced multiplayer lobbies, training mode, and professional-grade drawing tools.
+A cutting-edge, modern web-based drawing game built with the latest web technologies. Perfect for publishing on **Itch.io** and **app stores** as a Progressive Web App (PWA). Features advanced drawing tools and a professional-grade user experience. CrazyGames integration coming in version 2.0!
 
-## 🚀 **What's in v1.0**
+**[Play DrawDash V1 on itch.io](https://paterik.itch.io/drawdash)**
+
+> **Note:** Multiplayer lobbies are currently not available in the public version as we are working on V2 with enhanced multiplayer features.
+
+## 🚀 **Coming in v2.0**
 
 ### ⚡ **Modern Architecture**
 - **ES6+ JavaScript**: Modern class-based architecture with async/await
@@ -54,11 +58,12 @@ A cutting-edge, modern web-based drawing game built with the latest web technolo
 
 ## 🚀 Deployment
 
-### For Itch.io
-1. Create a ZIP file with all game files
-2. Upload as an HTML game
-3. Set viewport to 1024x768 or use responsive mode
-4. Enable fullscreen support
+### Currently Available On
+- **[Itch.io](https://paterik.itch.io/drawdash)**: V1.0 is live and playable
+
+### Coming Soon
+- **CrazyGames**: Will be available with V2.0 release
+- **Progressive Web App**: Install on mobile and desktop devices
 
 ## 📱 Browser Compatibility
 
@@ -78,22 +83,6 @@ A cutting-edge, modern web-based drawing game built with the latest web technolo
 - **Intersection Observer**: Smooth animations and performance optimization
 - **AbortController**: Modern event cleanup and memory management
 
-## 📁 Modern File Structure
-
-```
-DrawDash-v2/
-├── index.html          # Modern HTML5 with PWA meta tags
-├── main.js            # ES6+ modular game logic  
-├── styles.css         # Modern CSS with custom properties
-├── sw.js              # Service Worker for PWA
-├── manifest.json      # PWA manifest
-├── Icon.ico          # App icon and favicon
-├── bell.mp3          # Sound effects
-├── ticking_clock.wav # Timer sounds
-├── package.json      # Modern package config
-└── README.md         # This documentation
-```
-
 ## 🎯 Game Flow
 
 1. **Login** → Enter username
@@ -111,12 +100,16 @@ The game supports custom word lists in lobby creation, making it perfect for:
 - **Language Learning**: Words in different languages
 - **Age Groups**: Age-appropriate word difficulty
 
-## 🏆 Perfect For
+## 🏆 Platforms
 
-- **Casual Gaming Platforms** (CrazyGames, Poki, etc.)
+### Current
+- **[Itch.io](https://paterik.itch.io/drawdash)**: V1 is currently available
+
+### Coming in V2
+- **CrazyGames**: Enhanced version with multiplayer
 - **Educational Sites** (Schools, learning platforms)
-- **Social Gaming** (Friends, family, online communities)
-- **Mobile Gaming** (Touch-friendly interface)
+- **Progressive Web App**: Install on mobile and desktop
+- **Mobile Optimized**: Touch-friendly interface with advanced features
 
 ## 📊 Performance
 
@@ -127,4 +120,6 @@ The game supports custom word lists in lobby creation, making it perfect for:
 
 ---
 
-**Play it now!** Play it now on itch.io via this link: https://paterik.itch.io/drawdash
+**V1 Available Now on [Itch.io](https://paterik.itch.io/drawdash)!** 
+
+V2 in active development with enhanced multiplayer features, AI drawing assistance, and CrazyGames integration coming soon.
