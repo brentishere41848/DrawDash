@@ -1,8 +1,8 @@
-# DrawDash v2.0 - Modern Progressive Web Drawing Game
+# DrawDash v1.0 - Modern Progressive Web Drawing Game
 
 A cutting-edge, modern web-based drawing game built with the latest web technologies. Perfect for publishing on **Itch.io**, and **app stores** as a Progressive Web App (PWA). Features advanced multiplayer lobbies, training mode, and professional-grade drawing tools.
 
-## 🚀 **What's New in v2.0**
+## 🚀 **What's in v1.0**
 
 ### ⚡ **Modern Architecture**
 - **ES6+ JavaScript**: Modern class-based architecture with async/await
